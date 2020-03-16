@@ -1,0 +1,25 @@
+
+sudo: true
+language: python
+addons:
+    apt:
+      packages:
+        - sshpass
+python:
+ - "3.7"
+install:
+  - pip install -r requirements.txt
+script:
+  - python run.py &
+  - pytest --disable-pytest-warnings
+deploy:
+  addons:
+    apt:
+      packages:
+        - sshpass
+  provider: script
+  language: bash
+  script: sshpass -p $server_pass ssh -o StrictHostKeyChecking=no  $server_user@$server_ip -p $server_port 'bash /root/deploy.sh' &
+notifications:
+  email:
+    - $email_desarrollador

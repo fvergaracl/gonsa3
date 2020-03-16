@@ -1,0 +1,413 @@
+ * Debugger is active!
+ * Debugger PIN: 118-212-687
+ * Debugger is active!
+ * Debugger PIN: 118-212-687
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/run.py', reloading
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/run.py', reloading
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Serving Flask app "run" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 118-212-687
+127.0.0.1 - - [21/Feb/2020 00:17:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Feb/2020 00:25:32] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [21/Feb/2020 00:25:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Feb/2020 00:26:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Feb/2020 00:26:06] "GET / HTTP/1.1" 200 -
+2003: Can't connect to MySQL server on 'localhost:3306' (61 Connection refused)
+2003: Can't connect to MySQL server on 'localhost:3306' (61 Connection refused)
+2003: Can't connect to MySQL server on 'localhost:3306' (61 Connection refused)
+2003: Can't connect to MySQL server on 'localhost:3306' (61 Connection refused)
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Serving Flask app "run" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Serving Flask app "run" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+127.0.0.1 - - [21/Feb/2020 00:30:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Feb/2020 00:30:06] "GET / HTTP/1.1" 200 -
+2003: Can't connect to MySQL server on 'None:3306' (61 Connection refused)
+2003: Can't connect to MySQL server on 'None:3306' (61 Connection refused)
+2003: Can't connect to MySQL server on 'None:3306' (61 Connection refused)
+2003: Can't connect to MySQL server on 'None:3306' (61 Connection refused)
+ * Serving Flask app "run" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+127.0.0.1 - - [21/Feb/2020 00:30:13] "GET / HTTP/1.1" 200 -
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+2003: Can't connect to MySQL server on 'None:3306' (61 Connection refused)
+2003: Can't connect to MySQL server on 'None:3306' (61 Connection refused)
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+127.0.0.1 - - [21/Feb/2020 01:02:08] "GET / HTTP/1.1" 200 -
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+2003: Can't connect to MySQL server on 'None:3306' (61 Connection refused)
+2003: Can't connect to MySQL server on 'None:3306' (61 Connection refused)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+127.0.0.1 - - [21/Feb/2020 01:04:10] "GET / HTTP/1.1" 200 -
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+2003: Can't connect to MySQL server on 'None:3306' (61 Connection refused)
+2003: Can't connect to MySQL server on 'None:3306' (61 Connection refused)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/settings/configs.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/settings/configs.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/settings/configs.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/_compat.py", line 57, in reraise
+    raise value
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 963, in inner
+    fd=fd,
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 806, in make_server
+    host, port, app, request_handler, passthrough_errors, ssl_context, fd=fd
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 699, in __init__
+    HTTPServer.__init__(self, server_address, handler)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py", line 137, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 49] Can't assign requested address
+
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/root.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/_compat.py", line 57, in reraise
+    raise value
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 963, in inner
+    fd=fd,
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 806, in make_server
+    host, port, app, request_handler, passthrough_errors, ssl_context, fd=fd
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 699, in __init__
+    HTTPServer.__init__(self, server_address, handler)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py", line 137, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 49] Can't assign requested address
+
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/student/challenges.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/_compat.py", line 57, in reraise
+    raise value
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 963, in inner
+    fd=fd,
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 806, in make_server
+    host, port, app, request_handler, passthrough_errors, ssl_context, fd=fd
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 699, in __init__
+    HTTPServer.__init__(self, server_address, handler)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py", line 137, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 49] Can't assign requested address
+
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/functions/search_functions.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/_compat.py", line 57, in reraise
+    raise value
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 963, in inner
+    fd=fd,
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 806, in make_server
+    host, port, app, request_handler, passthrough_errors, ssl_context, fd=fd
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 699, in __init__
+    HTTPServer.__init__(self, server_address, handler)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py", line 137, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 49] Can't assign requested address
+
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/functions/search_functions.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/_compat.py", line 57, in reraise
+    raise value
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 963, in inner
+    fd=fd,
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 806, in make_server
+    host, port, app, request_handler, passthrough_errors, ssl_context, fd=fd
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 699, in __init__
+    HTTPServer.__init__(self, server_address, handler)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py", line 137, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 49] Can't assign requested address
+
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/functions/search_functions.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/_compat.py", line 57, in reraise
+    raise value
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 963, in inner
+    fd=fd,
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 806, in make_server
+    host, port, app, request_handler, passthrough_errors, ssl_context, fd=fd
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 699, in __init__
+    HTTPServer.__init__(self, server_address, handler)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py", line 137, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 49] Can't assign requested address
+
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/functions/search_functions.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/_compat.py", line 57, in reraise
+    raise value
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 963, in inner
+    fd=fd,
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 806, in make_server
+    host, port, app, request_handler, passthrough_errors, ssl_context, fd=fd
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 699, in __init__
+    HTTPServer.__init__(self, server_address, handler)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py", line 137, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 49] Can't assign requested address
+
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/functions/search_functions.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/_compat.py", line 57, in reraise
+    raise value
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 963, in inner
+    fd=fd,
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 806, in make_server
+    host, port, app, request_handler, passthrough_errors, ssl_context, fd=fd
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 699, in __init__
+    HTTPServer.__init__(self, server_address, handler)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py", line 137, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 49] Can't assign requested address
+
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/functions/search_functions.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/_compat.py", line 57, in reraise
+    raise value
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 963, in inner
+    fd=fd,
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 806, in make_server
+    host, port, app, request_handler, passthrough_errors, ssl_context, fd=fd
+  File "/Users/felipevergara/personal/GIT/gonsa3/venv/lib/python3.7/site-packages/werkzeug/serving.py", line 699, in __init__
+    HTTPServer.__init__(self, server_address, handler)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py", line 137, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 49] Can't assign requested address
+
+ * Detected change in '/Users/felipevergara/personal/GIT/gonsa3/routes/student/challenges.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-349-309
