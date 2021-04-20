@@ -30,7 +30,7 @@ multidict==4.7.3
 mysql-connector-python-rf==2.2.2
 packaging==19.2
 pluggy==0.13.1
-py==1.8.0
+py==1.10.0
 py-bcrypt==0.4
 pycparser==2.19
 PyJWT==1.7.1
